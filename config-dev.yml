@@ -1,8 +1,8 @@
 spring:
   application:
-    name: springcloud-config-dev
+    name: springcloud-config-dev 
   profiles:
     active: dev
   cloud:
     config:
-      info: master branch,springcoud-config
+      info: master branch,springcoud-config   vesion- 2 
