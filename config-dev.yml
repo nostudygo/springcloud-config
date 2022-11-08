@@ -3,3 +3,6 @@ spring:
     name: springcloud-config-dev
   profiles:
     active: dev
+  cloud:
+    config:
+      info: master branch,springcoud-config
