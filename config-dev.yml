@@ -5,4 +5,4 @@ spring:
     active: dev
   cloud:
     config:
-      info: master branch,springcoud-config   vesion- 2 
+      info: master branch,springcoud-config   vesion- 5 
